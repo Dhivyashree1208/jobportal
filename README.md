@@ -135,12 +135,6 @@ npm start
 - **This project is open-source and licensed under the MIT License.**
 
 ---
-
-
-## 👨‍💻 Author
-- **Made with 💙 by Shubham**
-- **🔗 Connect on [LinkedIn](https://www.linkedin.com/in/shubham-kumar-894799290/)
-
 ---
 
 
